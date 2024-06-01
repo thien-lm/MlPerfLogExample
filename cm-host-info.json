@@ -1,0 +1,10 @@
+{
+  "os_version": "Linux-5.15.0-1046-nvidia-x86_64-with-glibc2.35",
+  "cpu_version": "x86_64",
+  "python_version": "3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0]",
+  "cm_version": "2.3.1",
+  "os_version_sys": "ubuntu 22.04",
+  "system_name": "hfx06h100dgx01",
+  "cm_repo_name": "gateoverflow@cm4mlops",
+  "cm_repo_git_hash": "c48f3835e53c98d10387d8f06f54008159a07e45"
+}
